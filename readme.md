@@ -12,14 +12,12 @@ este é um sistema desktop desenvolvido em Java para cadastro de clientes em um 
 
 ## Imagens
 
-<div style="text-align: center;">
-    <img src="/images/login.jpeg" alt="Brincando com o java construindo a tela de login" width="450"/>
-</div>
+<p align="center">
+  <img src="/images/login.jpeg" alt="Brincando com o java construindo a tela de login" width="500"/>
+</p>
 
-<div style="text-align: center;">
-    <img src="/images/cadastro.jpeg" alt="Brincando com o java construindo o cadastro" width="450"/>
-</div>
+<p align="center">
+  <img src="/images/cadastro.jpeg" alt="Brincando com o java construindo o cadastro" width="500"/>
+</p>
 
-<div style="text-align: center;">
-    <img src="/images/jasperview.jpeg" alt="utilização do jasperview para o relatório" width="450"/>
-</div>
+
