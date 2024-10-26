@@ -1,0 +1,15 @@
+.metadata/
+.settings/
+.classpath
+.project
+
+.dbeaver/
+dbeaver-workspace.properties
+
+bin/
+target/
+
+*.log
+
+*.tmp
+*.temp
